@@ -1,2 +1,2 @@
 # DataMiningB365
-Data Mining Project Using KNN Algorithm
+Data Mining Project Using KNN Algorithm & Tree Classifier
